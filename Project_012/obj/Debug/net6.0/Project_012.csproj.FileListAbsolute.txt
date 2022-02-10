@@ -1,0 +1,15 @@
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\Project_012.exe
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\Project_012.deps.json
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\Project_012.runtimeconfig.json
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\Project_012.dll
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\ref\Project_012.dll
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\bin\Debug\net6.0\Project_012.pdb
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.csproj.AssemblyReference.cache
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.AssemblyInfoInputs.cache
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.AssemblyInfo.cs
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.csproj.CoreCompileInputs.cache
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.dll
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\ref\Project_012.dll
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.pdb
+C:\Users\ikosk\OneDrive\Документы\GeekBrains\Знакомство с языком программирования C#\HomeWork 2\Project_012\obj\Debug\net6.0\Project_012.genruntimeconfig.cache
